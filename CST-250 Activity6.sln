@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextFileDataAccessDemo", "TextFileDataAccessDemo\TextFileDataAccessDemo.csproj", "{AB6F2862-C8BB-43E7-8F36-24F770B67357}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeopleFileIO", "PeopleFileIO\PeopleFileIO.csproj", "{924D9382-097D-4C8C-BB38-EAED25F8BBCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB6F2862-C8BB-43E7-8F36-24F770B67357}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB6F2862-C8BB-43E7-8F36-24F770B67357}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB6F2862-C8BB-43E7-8F36-24F770B67357}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB6F2862-C8BB-43E7-8F36-24F770B67357}.Release|Any CPU.Build.0 = Release|Any CPU
+		{924D9382-097D-4C8C-BB38-EAED25F8BBCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{924D9382-097D-4C8C-BB38-EAED25F8BBCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{924D9382-097D-4C8C-BB38-EAED25F8BBCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{924D9382-097D-4C8C-BB38-EAED25F8BBCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D428C07-EF19-4323-ABD5-1BE7B6CB1E5E}
+	EndGlobalSection
+EndGlobal

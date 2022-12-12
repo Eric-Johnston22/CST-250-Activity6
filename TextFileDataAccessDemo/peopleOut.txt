@@ -1,0 +1,10 @@
+First name: Jeff Last name:  Bezos URL:  www.amazon.com
+
+First name: Bill Last name:  Gates URL:  www.microsoft.com
+
+First name: Andy Last name:  Grove URL:  www.intel.com
+
+First name: Sheryl Last name:  Sandberg URL:  www.facebook.com
+
+First name: Steve Last name:  Jobs URL:  www.apple.com
+
