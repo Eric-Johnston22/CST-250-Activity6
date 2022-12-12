@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextFileDataAccessDemo", "T
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeopleFileIO", "PeopleFileIO\PeopleFileIO.csproj", "{924D9382-097D-4C8C-BB38-EAED25F8BBCA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQdemo", "LINQdemo\LINQdemo.csproj", "{5F8F816C-3BF2-4C10-989E-E38C986ED0F8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{924D9382-097D-4C8C-BB38-EAED25F8BBCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{924D9382-097D-4C8C-BB38-EAED25F8BBCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{924D9382-097D-4C8C-BB38-EAED25F8BBCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F8F816C-3BF2-4C10-989E-E38C986ED0F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F8F816C-3BF2-4C10-989E-E38C986ED0F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F8F816C-3BF2-4C10-989E-E38C986ED0F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F8F816C-3BF2-4C10-989E-E38C986ED0F8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
